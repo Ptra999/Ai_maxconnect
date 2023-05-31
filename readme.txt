@@ -1,5 +1,3 @@
-   PART-2
-
 
 
 The current game MAXCONNECT4 has been built on python. 
